@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 0e99bf49ebda29f4392be5c775840557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -295332373135480928
+    second: Claude sprite sheet-02 - small_0
+  - first:
+      213: 9044853138728980635
+    second: Claude sprite sheet-02 - small_1
+  - first:
+      213: -7200948879682320985
+    second: Claude sprite sheet-02 - small_2
+  - first:
+      213: 6123367185260950918
+    second: Claude sprite sheet-02 - small_3
+  - first:
+      213: -7281479136050163034
+    second: Claude sprite sheet-02 - small_4
+  - first:
+      213: -7815563061004040139
+    second: Claude sprite sheet-02 - small_5
+  - first:
+      213: -83781738821208032
+    second: Claude sprite sheet-02 - small_6
+  - first:
+      213: 4241644737649274533
+    second: Claude sprite sheet-02 - small_7
+  - first:
+      213: -8365704909673515978
+    second: Claude sprite sheet-02 - small_8
+  - first:
+      213: 3837585504516116469
+    second: Claude sprite sheet-02 - small_9
+  - first:
+      213: 6862862236360237160
+    second: Claude sprite sheet-02 - small_10
+  - first:
+      213: -1075491192680802089
+    second: Claude sprite sheet-02 - small_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 41
+        width: 236
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6753631, y: 0.4964937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7269875c4c6ebf0800000000000000
+      internalID: -295332373135480928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 38
+        width: 330
+        height: 377
+      alignment: 9
+      pivot: {x: 0.322653, y: 0.4843433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90948b0206c58d70800000000000000
+      internalID: 9044853138728980635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 36
+        width: 315
+        height: 379
+      alignment: 9
+      pivot: {x: 0.3470784, y: 0.5035802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5c9cc6527111c90800000000000000
+      internalID: -7200948879682320985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_3
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 38
+        width: 305
+        height: 379
+      alignment: 9
+      pivot: {x: 0.3398398, y: 0.5017901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68533c213029af450800000000000000
+      internalID: 6123367185260950918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_4
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 37
+        width: 315
+        height: 381
+      alignment: 9
+      pivot: {x: 0.3535396, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2df400e4df2fa90800000000000000
+      internalID: -7281479136050163034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_5
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 40
+        width: 353
+        height: 378
+      alignment: 9
+      pivot: {x: 0.3616179, y: 0.4982051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538803dfdca898390800000000000000
+      internalID: -7815563061004040139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_6
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 40
+        width: 392
+        height: 379
+      alignment: 9
+      pivot: {x: 0.3078862, y: 0.4928395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b5e2d3f856def0800000000000000
+      internalID: -83781738821208032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_7
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 38
+        width: 443
+        height: 379
+      alignment: 9
+      pivot: {x: 0.2718062, y: 0.4964197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6dfa6a695dda30800000000000000
+      internalID: 4241644737649274533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_8
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 37
+        width: 480
+        height: 378
+      alignment: 9
+      pivot: {x: 0.2554733, y: 0.4892308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343b2345bb07eb80800000000000000
+      internalID: -8365704909673515978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_9
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 40
+        width: 551
+        height: 378
+      alignment: 9
+      pivot: {x: 0.2192595, y: 0.4982051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff0fd71fa7d14530800000000000000
+      internalID: 3837585504516116469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_10
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 40
+        width: 621
+        height: 379
+      alignment: 9
+      pivot: {x: 0.19151, y: 0.4885119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e1bcc7d8cd3f50800000000000000
+      internalID: 6862862236360237160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claude sprite sheet-02 - small_11
+      rect:
+        serializedVersion: 2
+        x: 5129
+        y: 33
+        width: 752
+        height: 380
+      alignment: 9
+      pivot: {x: 0.1641924, y: 0.4885423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8133d55761311f0800000000000000
+      internalID: -1075491192680802089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
