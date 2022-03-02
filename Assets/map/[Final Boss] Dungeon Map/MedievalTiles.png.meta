@@ -1,0 +1,4428 @@
+fileFormatVersion: 2
+guid: eb73016d011dfed4dbe5e252ee1d6b4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4675732467008280721
+    second: MedievalTiles_0
+  - first:
+      213: -1527383252774810902
+    second: MedievalTiles_1
+  - first:
+      213: -6368449545759286745
+    second: MedievalTiles_2
+  - first:
+      213: -1526934366865165385
+    second: MedievalTiles_3
+  - first:
+      213: 1496304726643949461
+    second: MedievalTiles_4
+  - first:
+      213: -3899749353700020917
+    second: MedievalTiles_5
+  - first:
+      213: 9000179818931317307
+    second: MedievalTiles_6
+  - first:
+      213: -3063007086918286787
+    second: MedievalTiles_7
+  - first:
+      213: -1199836253152056863
+    second: MedievalTiles_8
+  - first:
+      213: 1367462030322421522
+    second: MedievalTiles_9
+  - first:
+      213: 7825606141777501665
+    second: MedievalTiles_10
+  - first:
+      213: 6832425154290069367
+    second: MedievalTiles_11
+  - first:
+      213: -8396992632529225943
+    second: MedievalTiles_12
+  - first:
+      213: -897517095036113641
+    second: MedievalTiles_13
+  - first:
+      213: -375084180319844114
+    second: MedievalTiles_14
+  - first:
+      213: 4732817281760276745
+    second: MedievalTiles_15
+  - first:
+      213: -1539851286644460519
+    second: MedievalTiles_16
+  - first:
+      213: 1202419366667122792
+    second: MedievalTiles_17
+  - first:
+      213: 8129925629060852168
+    second: MedievalTiles_18
+  - first:
+      213: -6793223154357409196
+    second: MedievalTiles_19
+  - first:
+      213: -2478516690403992675
+    second: MedievalTiles_20
+  - first:
+      213: 3361660731525537529
+    second: MedievalTiles_21
+  - first:
+      213: 8972785520656208331
+    second: MedievalTiles_22
+  - first:
+      213: 1056250274605327831
+    second: MedievalTiles_23
+  - first:
+      213: -4026908722442863960
+    second: MedievalTiles_24
+  - first:
+      213: -6779909657490188056
+    second: MedievalTiles_25
+  - first:
+      213: 8162903214478697317
+    second: MedievalTiles_26
+  - first:
+      213: 2261995100173674874
+    second: MedievalTiles_27
+  - first:
+      213: 6020186907409406169
+    second: MedievalTiles_28
+  - first:
+      213: 274669877925779989
+    second: MedievalTiles_29
+  - first:
+      213: -5993106256857379253
+    second: MedievalTiles_30
+  - first:
+      213: 7622596687791733884
+    second: MedievalTiles_31
+  - first:
+      213: 2854507074469315290
+    second: MedievalTiles_32
+  - first:
+      213: 8277961913159204237
+    second: MedievalTiles_33
+  - first:
+      213: 3440677665457329009
+    second: MedievalTiles_34
+  - first:
+      213: -2588343484501892944
+    second: MedievalTiles_35
+  - first:
+      213: 4379501183290180122
+    second: MedievalTiles_36
+  - first:
+      213: -3274269542983027028
+    second: MedievalTiles_37
+  - first:
+      213: 413085296713021903
+    second: MedievalTiles_38
+  - first:
+      213: 4815347043168783483
+    second: MedievalTiles_39
+  - first:
+      213: -4629497718107870590
+    second: MedievalTiles_40
+  - first:
+      213: 4136008265396976741
+    second: MedievalTiles_41
+  - first:
+      213: -1973163523525947440
+    second: MedievalTiles_42
+  - first:
+      213: -3187350279324206969
+    second: MedievalTiles_43
+  - first:
+      213: 3259765396230760768
+    second: MedievalTiles_44
+  - first:
+      213: -2676702274542684133
+    second: MedievalTiles_45
+  - first:
+      213: 3669284433637537790
+    second: MedievalTiles_46
+  - first:
+      213: -5356018410102219887
+    second: MedievalTiles_47
+  - first:
+      213: -3264218374843005931
+    second: MedievalTiles_48
+  - first:
+      213: -3895860620248790320
+    second: MedievalTiles_49
+  - first:
+      213: -3212530597452859358
+    second: MedievalTiles_50
+  - first:
+      213: -6995122245584953382
+    second: MedievalTiles_51
+  - first:
+      213: -4308218352635040422
+    second: MedievalTiles_52
+  - first:
+      213: -3607169793163445280
+    second: MedievalTiles_53
+  - first:
+      213: 8836881565497498237
+    second: MedievalTiles_54
+  - first:
+      213: 9082675985468548191
+    second: MedievalTiles_55
+  - first:
+      213: 8869766118194618901
+    second: MedievalTiles_56
+  - first:
+      213: 5240438324558103630
+    second: MedievalTiles_57
+  - first:
+      213: -109998823930638409
+    second: MedievalTiles_58
+  - first:
+      213: -6020953953369894496
+    second: MedievalTiles_59
+  - first:
+      213: -6543386869287591777
+    second: MedievalTiles_60
+  - first:
+      213: 5808121665636659105
+    second: MedievalTiles_61
+  - first:
+      213: -1225795617230848669
+    second: MedievalTiles_62
+  - first:
+      213: 5773034162376652434
+    second: MedievalTiles_63
+  - first:
+      213: -4091567622662420655
+    second: MedievalTiles_64
+  - first:
+      213: -7276543025604177323
+    second: MedievalTiles_65
+  - first:
+      213: -6837905400964169966
+    second: MedievalTiles_66
+  - first:
+      213: -316290357470566606
+    second: MedievalTiles_67
+  - first:
+      213: 2650523393068434362
+    second: MedievalTiles_68
+  - first:
+      213: 1699793086450289421
+    second: MedievalTiles_69
+  - first:
+      213: 1934745243568712671
+    second: MedievalTiles_70
+  - first:
+      213: 1405430291972918422
+    second: MedievalTiles_71
+  - first:
+      213: 1401390578663318205
+    second: MedievalTiles_72
+  - first:
+      213: 8279172881296909955
+    second: MedievalTiles_73
+  - first:
+      213: 2109649149556357059
+    second: MedievalTiles_74
+  - first:
+      213: -9053009187577364530
+    second: MedievalTiles_75
+  - first:
+      213: -7153751665692884342
+    second: MedievalTiles_76
+  - first:
+      213: 7594790489515246563
+    second: MedievalTiles_77
+  - first:
+      213: -3875710680756017873
+    second: MedievalTiles_78
+  - first:
+      213: -3314603989655804365
+    second: MedievalTiles_79
+  - first:
+      213: 243790582512952077
+    second: MedievalTiles_80
+  - first:
+      213: 8577359203886132935
+    second: MedievalTiles_81
+  - first:
+      213: -8477703261182209585
+    second: MedievalTiles_82
+  - first:
+      213: -513356960030391781
+    second: MedievalTiles_83
+  - first:
+      213: 9157959436345666386
+    second: MedievalTiles_84
+  - first:
+      213: -1435096258334405711
+    second: MedievalTiles_85
+  - first:
+      213: -1476429534624875550
+    second: MedievalTiles_86
+  - first:
+      213: 1927084942855583900
+    second: MedievalTiles_87
+  - first:
+      213: 5435326069390351712
+    second: MedievalTiles_88
+  - first:
+      213: -3458471136672607131
+    second: MedievalTiles_89
+  - first:
+      213: 317020049953713835
+    second: MedievalTiles_90
+  - first:
+      213: 919899402608583593
+    second: MedievalTiles_91
+  - first:
+      213: 5854023418438157969
+    second: MedievalTiles_92
+  - first:
+      213: -6267709458075986898
+    second: MedievalTiles_93
+  - first:
+      213: 5927341666153144875
+    second: MedievalTiles_94
+  - first:
+      213: -4996253598474752832
+    second: MedievalTiles_95
+  - first:
+      213: 8603529204325287846
+    second: MedievalTiles_96
+  - first:
+      213: 9097958994395504666
+    second: MedievalTiles_97
+  - first:
+      213: -1081954688000662274
+    second: MedievalTiles_98
+  - first:
+      213: -5216627191221445605
+    second: MedievalTiles_99
+  - first:
+      213: -1264659821441667959
+    second: MedievalTiles_100
+  - first:
+      213: 3532298300303989659
+    second: MedievalTiles_101
+  - first:
+      213: -5921649487088734903
+    second: MedievalTiles_102
+  - first:
+      213: -5142730904251194685
+    second: MedievalTiles_103
+  - first:
+      213: -1241241507107075064
+    second: MedievalTiles_104
+  - first:
+      213: 4433276424073169974
+    second: MedievalTiles_105
+  - first:
+      213: -1472554587852779004
+    second: MedievalTiles_106
+  - first:
+      213: 2876413000311945689
+    second: MedievalTiles_107
+  - first:
+      213: 8152281874943867635
+    second: MedievalTiles_108
+  - first:
+      213: 8612595810325658102
+    second: MedievalTiles_109
+  - first:
+      213: -6167146507495204162
+    second: MedievalTiles_110
+  - first:
+      213: -6748587918818711603
+    second: MedievalTiles_111
+  - first:
+      213: -8288544425021118007
+    second: MedievalTiles_112
+  - first:
+      213: 8643173226230254502
+    second: MedievalTiles_113
+  - first:
+      213: 4098796494666230403
+    second: MedievalTiles_114
+  - first:
+      213: 5416493050563803712
+    second: MedievalTiles_115
+  - first:
+      213: -4391474348183045855
+    second: MedievalTiles_116
+  - first:
+      213: 3952517647077987263
+    second: MedievalTiles_117
+  - first:
+      213: 7810783319270751147
+    second: MedievalTiles_118
+  - first:
+      213: 6857546849491768983
+    second: MedievalTiles_119
+  - first:
+      213: 1569544202125401008
+    second: MedievalTiles_120
+  - first:
+      213: -8336869132836317660
+    second: MedievalTiles_121
+  - first:
+      213: -269687585379940773
+    second: MedievalTiles_122
+  - first:
+      213: -3282852213109326929
+    second: MedievalTiles_123
+  - first:
+      213: 4755651850391520079
+    second: MedievalTiles_124
+  - first:
+      213: 3154677510244042610
+    second: MedievalTiles_125
+  - first:
+      213: 7276939959591708439
+    second: MedievalTiles_126
+  - first:
+      213: -7382152824439664206
+    second: MedievalTiles_127
+  - first:
+      213: -3289115647652795857
+    second: MedievalTiles_128
+  - first:
+      213: 6756229167238272711
+    second: MedievalTiles_129
+  - first:
+      213: 7600208226869088407
+    second: MedievalTiles_130
+  - first:
+      213: 6584192905677644872
+    second: MedievalTiles_131
+  - first:
+      213: -8578048158244920029
+    second: MedievalTiles_132
+  - first:
+      213: 6390139371139705055
+    second: MedievalTiles_133
+  - first:
+      213: 9174976279419251206
+    second: MedievalTiles_134
+  - first:
+      213: -6718119773988463001
+    second: MedievalTiles_135
+  - first:
+      213: 4550359252191736594
+    second: MedievalTiles_136
+  - first:
+      213: 1513057900451892434
+    second: MedievalTiles_137
+  - first:
+      213: -3746970935019169534
+    second: MedievalTiles_138
+  - first:
+      213: 9220048817267279212
+    second: MedievalTiles_139
+  - first:
+      213: 5001949742032654612
+    second: MedievalTiles_140
+  - first:
+      213: 1908023435535700745
+    second: MedievalTiles_141
+  - first:
+      213: 6029463057718220551
+    second: MedievalTiles_142
+  - first:
+      213: -6817833161931102369
+    second: MedievalTiles_143
+  - first:
+      213: -1150469967060193737
+    second: MedievalTiles_144
+  - first:
+      213: 7295977685571214668
+    second: MedievalTiles_145
+  - first:
+      213: 7156362580619495114
+    second: MedievalTiles_146
+  - first:
+      213: 4365845873051107607
+    second: MedievalTiles_147
+  - first:
+      213: -4977237598871445303
+    second: MedievalTiles_148
+  - first:
+      213: 6235434058670702567
+    second: MedievalTiles_149
+  - first:
+      213: 2645532617456686223
+    second: MedievalTiles_150
+  - first:
+      213: -749660657055013327
+    second: MedievalTiles_151
+  - first:
+      213: 4835062806268541712
+    second: MedievalTiles_152
+  - first:
+      213: -2753435618631149065
+    second: MedievalTiles_153
+  - first:
+      213: 7048579853500163319
+    second: MedievalTiles_154
+  - first:
+      213: 1154980541450631655
+    second: MedievalTiles_155
+  - first:
+      213: -7759898781071500624
+    second: MedievalTiles_156
+  - first:
+      213: -6349174782753622335
+    second: MedievalTiles_157
+  - first:
+      213: 6207990319428472
+    second: MedievalTiles_158
+  - first:
+      213: 6048059133484247923
+    second: MedievalTiles_159
+  - first:
+      213: 5680095655440205008
+    second: MedievalTiles_160
+  - first:
+      213: -6680226930694321554
+    second: MedievalTiles_161
+  - first:
+      213: -5034342256644911380
+    second: MedievalTiles_162
+  - first:
+      213: 5454968513001192557
+    second: MedievalTiles_163
+  - first:
+      213: -7600207300408506023
+    second: MedievalTiles_164
+  - first:
+      213: 5711564213911353905
+    second: MedievalTiles_165
+  - first:
+      213: -8513811892241295005
+    second: MedievalTiles_166
+  - first:
+      213: -3910839754245786451
+    second: MedievalTiles_167
+  - first:
+      213: 2926186494930989533
+    second: MedievalTiles_168
+  - first:
+      213: 1933038614344631433
+    second: MedievalTiles_169
+  - first:
+      213: 9110495695163244180
+    second: MedievalTiles_170
+  - first:
+      213: 2276327554442138433
+    second: MedievalTiles_171
+  - first:
+      213: 1646057503141276799
+    second: MedievalTiles_172
+  - first:
+      213: -4715634675696623110
+    second: MedievalTiles_173
+  - first:
+      213: -8999934808489190873
+    second: MedievalTiles_174
+  - first:
+      213: -1461815770901361343
+    second: MedievalTiles_175
+  - first:
+      213: -3979473363607485938
+    second: MedievalTiles_176
+  - first:
+      213: 2975613709054461357
+    second: MedievalTiles_177
+  - first:
+      213: 8964176794854708463
+    second: MedievalTiles_178
+  - first:
+      213: -5430730252235838821
+    second: MedievalTiles_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MedievalTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1981ac8d7e983e040800000000000000
+      internalID: 4675732467008280721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0a762605adcae0800000000000000
+      internalID: -1527383252774810902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a150f21e8be97a0800000000000000
+      internalID: -6368449545759286745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37aab884d3fcae0800000000000000
+      internalID: -1526934366865165385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fb95b9831f3c410800000000000000
+      internalID: 1496304726643949461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da6a3ef9e41e9c0800000000000000
+      internalID: -3899749353700020917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a6a0e3cdf07ec70800000000000000
+      internalID: 9000179818931317307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d324bbf68430e75d0800000000000000
+      internalID: -3063007086918286787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96c36e843595fe0800000000000000
+      internalID: -1199836253152056863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc331b8733af210800000000000000
+      internalID: 1367462030322421522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed53c8f2532a9c60800000000000000
+      internalID: 7825606141777501665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f27e36a76a1de50800000000000000
+      internalID: 6832425154290069367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927f58c90b3e77b80800000000000000
+      internalID: -8396992632529225943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d288215f06b83f0800000000000000
+      internalID: -897517095036113641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8ca2fdcee6bcaf0800000000000000
+      internalID: -375084180319844114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b6220e385ea140800000000000000
+      internalID: 4732817281760276745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f0acc96951aae0800000000000000
+      internalID: -1539851286644460519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8687e351b0adfa010800000000000000
+      internalID: 1202419366667122792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c92482194c43d070800000000000000
+      internalID: 8129925629060852168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a619c788f99b1a0800000000000000
+      internalID: -6793223154357409196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd79aa33a8a9dd0800000000000000
+      internalID: -2478516690403992675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe95fddf9407ae20800000000000000
+      internalID: 3361660731525537529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc15b7424ecb58c70800000000000000
+      internalID: 8972785520656208331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d562cb470e88ae00800000000000000
+      internalID: 1056250274605327831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aafed73adb8d18c0800000000000000
+      internalID: -4026908722442863960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89e08861ce8e1a0800000000000000
+      internalID: -6779909657490188056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a5e28935784170800000000000000
+      internalID: 8162903214478697317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a68d1f88346f10800000000000000
+      internalID: 2261995100173674874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8589198100c8350800000000000000
+      internalID: 6020186907409406169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a14487cc2dfc300800000000000000
+      internalID: 274669877925779989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e48dabc9534dca0800000000000000
+      internalID: -5993106256857379253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c35e12d47e8c960800000000000000
+      internalID: 7622596687791733884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad245967f0f3d9720800000000000000
+      internalID: 2854507074469315290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d3112608a31e270800000000000000
+      internalID: 8277961913159204237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17354347b1ebfbf20800000000000000
+      internalID: 3440677665457329009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b06191805b541cd0800000000000000
+      internalID: -2588343484501892944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a120a636f1d17cc30800000000000000
+      internalID: 4379501183290180122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6bd9fc2357f82d0800000000000000
+      internalID: -3274269542983027028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9348483e29bb500800000000000000
+      internalID: 413085296713021903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8d4a7f9c83d240800000000000000
+      internalID: 4815347043168783483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae2bf7a58b0cfb0800000000000000
+      internalID: -4629497718107870590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf0179a9d066930800000000000000
+      internalID: 4136008265396976741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4a78ca3aed94e0800000000000000
+      internalID: -1973163523525947440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788732aeec144c3d0800000000000000
+      internalID: -3187350279324206969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e17d5b530d3d20800000000000000
+      internalID: 3259765396230760768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18376c86717adad0800000000000000
+      internalID: -2676702274542684133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7f5de60caebe230800000000000000
+      internalID: 3669284433637537790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b976722a99ba5b0800000000000000
+      internalID: -5356018410102219887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5140e22ceaa23b2d0800000000000000
+      internalID: -3264218374843005931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da43a3386f1fe9c0800000000000000
+      internalID: -3895860620248790320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228bfbc317cca63d0800000000000000
+      internalID: -3212530597452859358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd97f11655cee90800000000000000
+      internalID: -6995122245584953382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dae54fb322634c0800000000000000
+      internalID: -4308218352635040422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb39f94f22c0fdc0800000000000000
+      internalID: -3607169793163445280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a1da9c6f8e2aa70800000000000000
+      internalID: 8836881565497498237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e2dbcfa52c0e70800000000000000
+      internalID: 9082675985468548191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51229cb5a4db71b70800000000000000
+      internalID: 8869766118194618901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4401a224e6c9b840800000000000000
+      internalID: 5240438324558103630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf47e507a4397ef0800000000000000
+      internalID: -109998823930638409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15760a746417ca0800000000000000
+      internalID: -6020953953369894496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_60
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90682c8f483135a0800000000000000
+      internalID: -6543386869287591777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afe584d1e79a9050800000000000000
+      internalID: 5808121665636659105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d79b371691dfee0800000000000000
+      internalID: -1225795617230848669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b7acdbffed1050800000000000000
+      internalID: 5773034162376652434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15787bcdce4d737c0800000000000000
+      internalID: -4091567622662420655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525406cba6840b90800000000000000
+      internalID: -7276543025604177323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3ecf3441ea11a0800000000000000
+      internalID: -6837905400964169966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e51d789f4c9bf0800000000000000
+      internalID: -316290357470566606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305b0abfc88c420800000000000000
+      internalID: 2650523393068434362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bc8856ec0e69710800000000000000
+      internalID: 1699793086450289421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2acd5c8899da10800000000000000
+      internalID: 1934745243568712671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8e9d7767118310800000000000000
+      internalID: 1405430291972918422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db26ec07e4db27310800000000000000
+      internalID: 1401390578663318205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386efbfded785e270800000000000000
+      internalID: 8279172881296909955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f20069baf64d10800000000000000
+      internalID: 2109649149556357059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf7a1adb104d5280800000000000000
+      internalID: -9053009187577364530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_76
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82440323c4c8bc90800000000000000
+      internalID: -7153751665692884342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3421716bd166960800000000000000
+      internalID: 7594790489515246563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a9559ba5b63ac0800000000000000
+      internalID: -3875710680756017873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3362971ab392002d0800000000000000
+      internalID: -3314603989655804365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03254e3e3e126300800000000000000
+      internalID: 243790582512952077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6f8a40c6e80770800000000000000
+      internalID: 8577359203886132935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1501efcc5295a80800000000000000
+      internalID: -8477703261182209585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120a62909030e8f0800000000000000
+      internalID: -513356960030391781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be1de169b971f70800000000000000
+      internalID: 9157959436345666386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb4c777e83851ce0800000000000000
+      internalID: -1435096258334405711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf9c4292ba28be0800000000000000
+      internalID: -1476429534624875550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9839ee9b816eba10800000000000000
+      internalID: 1927084942855583900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9e6433482e6b40800000000000000
+      internalID: 5435326069390351712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56410b033da0100d0800000000000000
+      internalID: -3458471136672607131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeea284e08466400800000000000000
+      internalID: 317020049953713835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3249102a324cc00800000000000000
+      internalID: 919899402608583593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_92
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19603da784bad3150800000000000000
+      internalID: 5854023418438157969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245604a47f9409a0800000000000000
+      internalID: -6267709458075986898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b222e6947d5224250800000000000000
+      internalID: 5927341666153144875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc252fc2ddb9aab0800000000000000
+      internalID: -4996253598474752832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a702865a30e56770800000000000000
+      internalID: 8603529204325287846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10a30a9081724e70800000000000000
+      internalID: 9097958994395504666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e6a691ff1cf0f0800000000000000
+      internalID: -1081954688000662274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1a9d5531da97b0800000000000000
+      internalID: -5216627191221445605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca245c796037ee0800000000000000
+      internalID: -1264659821441667959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bd556d69e350130800000000000000
+      internalID: 3532298300303989659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da3bd6a2312dda0800000000000000
+      internalID: -5921649487088734903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22fac6d7951a8b0800000000000000
+      internalID: -5142730904251194685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c8968fc6936cee0800000000000000
+      internalID: -1241241507107075064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cceff4b69268d30800000000000000
+      internalID: 4433276424073169974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402d9ae776f609be0800000000000000
+      internalID: -1472554587852779004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b8e642621be720800000000000000
+      internalID: 2876413000311945689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa72e03c29b22170800000000000000
+      internalID: 8152281874943867635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f97a7c0246168770800000000000000
+      internalID: 8612595810325658102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba15f62de4e96aa0800000000000000
+      internalID: -6167146507495204162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7615b1b033852a0800000000000000
+      internalID: -6748587918818711603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9629192cc29fc80800000000000000
+      internalID: -8288544425021118007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab0f997148b2f770800000000000000
+      internalID: 8643173226230254502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a623f02b9d1e830800000000000000
+      internalID: 4098796494666230403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a3a3f4bbf3b2b40800000000000000
+      internalID: 5416493050563803712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1293f4ce8595e03c0800000000000000
+      internalID: -4391474348183045855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3db82dbd92ad630800000000000000
+      internalID: 3952517647077987263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babfdaaab0a756c60800000000000000
+      internalID: 7810783319270751147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_119
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965e8ad686ea2f50800000000000000
+      internalID: 6857546849491768983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_120
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb55f2d22428c510800000000000000
+      internalID: 1569544202125401008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_121
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4265f5eb1bd7d4c80800000000000000
+      internalID: -8336869132836317660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b568819e190e14cf0800000000000000
+      internalID: -269687585379940773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab73833e47f072d0800000000000000
+      internalID: -3282852213109326929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43040259287ff140800000000000000
+      internalID: 4755651850391520079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_125
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277820b3b7aa7cb20800000000000000
+      internalID: 3154677510244042610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172f4f9652ecf460800000000000000
+      internalID: 7276939959591708439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b190a55e135d8990800000000000000
+      internalID: -7382152824439664206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ae974beb6ba52d0800000000000000
+      internalID: -3289115647652795857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_129
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6de5ea1a2f2cd50800000000000000
+      internalID: 6756229167238272711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790988d5d1d597960800000000000000
+      internalID: 7600208226869088407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_131
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844209b2090cf5b50800000000000000
+      internalID: 6584192905677644872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_132
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3252e9506a6a4f880800000000000000
+      internalID: -8578048158244920029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82502d6e55ea850800000000000000
+      internalID: 6390139371139705055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a6b65a050145f70800000000000000
+      internalID: 9174976279419251206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed3e0e8a174c2a0800000000000000
+      internalID: -6718119773988463001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fc4b81af162f30800000000000000
+      internalID: 4550359252191736594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc8809d4267ff410800000000000000
+      internalID: 1513057900451892434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_138
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209187279c5100cc0800000000000000
+      internalID: -3746970935019169534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_139
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c650af4ac8134ff70800000000000000
+      internalID: 9220048817267279212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4119636f9ce7a6540800000000000000
+      internalID: 5001949742032654612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_141
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d93a9439aa7a10800000000000000
+      internalID: 1908023435535700745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70792ad94b4fca350800000000000000
+      internalID: 6029463057718220551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57e7359cd03261a0800000000000000
+      internalID: -6817833161931102369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2f9019a5b800f0800000000000000
+      internalID: -1150469967060193737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_145
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d16ad9c05804560800000000000000
+      internalID: 7295977685571214668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac609bdd9d1805360800000000000000
+      internalID: 7156362580619495114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7110157b0b9969c30800000000000000
+      internalID: 4365845873051107607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_148
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ac8c36cc4deab0800000000000000
+      internalID: -4977237598871445303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_149
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef70775d36b88650800000000000000
+      internalID: 6235434058670702567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_150
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84173126e1d6b420800000000000000
+      internalID: 2645532617456686223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366622ba9ba895f0800000000000000
+      internalID: -749660657055013327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_152
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf65a4108991340800000000000000
+      internalID: 4835062806268541712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_153
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91597a4e4d9c9d0800000000000000
+      internalID: -2753435618631149065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_154
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42ad2280691d160800000000000000
+      internalID: 7048579853500163319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e937afdea0570010800000000000000
+      internalID: 1154980541450631655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1f3d1c2d4f4490800000000000000
+      internalID: -7759898781071500624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_157
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63a19ac2333e7a0800000000000000
+      internalID: -6349174782753622335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87332c1622e061000800000000000000
+      internalID: 6207990319428472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ba2e7ecb50fe350800000000000000
+      internalID: 6048059133484247923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c0c877e0c3de40800000000000000
+      internalID: 5680095655440205008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_161
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a87f8fff01b43a0800000000000000
+      internalID: -6680226930694321554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee01f2046c622ab0800000000000000
+      internalID: -5034342256644911380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_163
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c706ef5f0f3bb40800000000000000
+      internalID: 5454968513001192557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_164
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95902d75ab3a68690800000000000000
+      internalID: -7600207300408506023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_165
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af402346d834f40800000000000000
+      internalID: 5711564213911353905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_166
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369167e213dd8d980800000000000000
+      internalID: -8513811892241295005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_167
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da434bac6f7e9b9c0800000000000000
+      internalID: -3910839754245786451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_168
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd138e01d17eb9820800000000000000
+      internalID: 2926186494930989533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9840029c06883da10800000000000000
+      internalID: 1933038614344631433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_170
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e3ee5b09bfe6e70800000000000000
+      internalID: 9110495695163244180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14315faa9d3279f10800000000000000
+      internalID: 2276327554442138433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_172
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c2a92f398f7d610800000000000000
+      internalID: 1646057503141276799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_173
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a6983f33be8eb0800000000000000
+      internalID: -4715634675696623110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_174
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a1452b9fec91380800000000000000
+      internalID: -8999934808489190873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_175
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4c582d4696bbe0800000000000000
+      internalID: -1461815770901361343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_176
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020c095f0216c8c0800000000000000
+      internalID: -3979473363607485938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_177
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da549f427e08b4920800000000000000
+      internalID: 2975613709054461357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_178
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe45d19fc47276c70800000000000000
+      internalID: 8964176794854708463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalTiles_179
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ae38cdb9b22a4b0800000000000000
+      internalID: -5430730252235838821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
