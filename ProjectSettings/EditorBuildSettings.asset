@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0. Main Menu.unity
+    guid: d0181e00bdae75c4c8c29dae056c7b8f
+  - enabled: 1
+    path: Assets/Scenes/1. Prologue.unity
+    guid: 915b4ad3943f93e4687cd3a59d7506d7
+  - enabled: 1
+    path: Assets/Scenes/2. Arc 1 - Begin.unity
+    guid: 2a7d2ec1addd3f4428ef9b9737a7b228
+  - enabled: 1
+    path: Assets/Scenes/3. ForestScene.unity
+    guid: 8259d247d17695d4dbe5e70e9519436e
+  - enabled: 1
+    path: Assets/Scenes/4. WaterfallScene.unity
+    guid: b94db574440c2bc44b2bf48cbd744030
+  - enabled: 1
+    path: Assets/Scenes/5. Arc 1 - End.unity
+    guid: 6a580bcd9255a694994a702cf210c1d9
+  - enabled: 1
+    path: Assets/Scenes/6. Arc 1 - Night.unity
+    guid: de1413e7752414146856571df3facafc
+  - enabled: 1
+    path: Assets/Scenes/7. Arc 2 - Begin.unity
+    guid: 7ac45db7d27d6ad40a4b81aeb4d2e76a
+  - enabled: 1
+    path: Assets/Scenes/8. SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/9. Arc 2 - Cave.unity
+    guid: 22938d46453574945830f947c4226bed
+  - enabled: 1
+    path: Assets/Scenes/10. CaveScene.unity
+    guid: 64e9e54a3f08141c9bd557e0fdf518c0
+  - enabled: 1
+    path: Assets/Scenes/11. Arc 2 - End.unity
+    guid: c80333867d805f043816ddff988427ea
+  - enabled: 1
+    path: Assets/Scenes/12. Discussion.unity
+    guid: 7a8e1e05a8c3acb4993f59cb54ed6d17
+  - enabled: 1
+    path: Assets/Scenes/13. Crystal Puzzle.unity
+    guid: 0ac600ff6866cf74b848c16c87a6e5ea
+  - enabled: 1
+    path: Assets/Scenes/14. Aftermath Crystal.unity
+    guid: 637b660cb611fd04f99dad0b7b3d7d91
+  - enabled: 1
+    path: Assets/Scenes/15. Boss - begin.unity
+    guid: 1eb19a1845519244bab64f0c375eb821
+  - enabled: 1
+    path: Assets/Scenes/16. Meet Clara.unity
+    guid: 1460b0afdefa2ac4fa6653ec97fbd2f2
+  - enabled: 1
+    path: Assets/Scenes/17. Boss scene.unity
+    guid: 05a6e69a75e42a0469ca2db04dcfcce5
+  - enabled: 1
+    path: Assets/Scenes/18. Boss - end.unity
+    guid: 5d9cb0f2eb82ec64cb30edca7733a099
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/0. After War.unity
+    guid: 5b9cb79810e344a45ba93a8eaf7de25c
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/1. Story Part 1.unity
+    guid: ce2333ca049a16a43bd9df20c5bd8c3c
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/2. Minigame 1.unity
+    guid: 63928f5ca2930c54289dd18711eb332d
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/3. Story Part 2.unity
+    guid: d80bc5ef09890f047be2f245888cddd4
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/4. Minigame 2.unity
+    guid: 489c665155c49d148ac223ca9d34d8c1
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/5. Story Part 3.unity
+    guid: 4d24f76d897be914984e4ba1a3079f54
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/6. Minigame 3.unity
+    guid: 4ee769141fb40e74281fdbb51f432c7d
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/7. Ending.unity
+    guid: 01d51c3a67a0b2c44ad64ca5a90ae303
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/Game Credit.unity
+    guid: 32863ed5a1ef81545a6cedf2331fc6f0
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/Antique Shop 1.unity
+    guid: e96110328c6967c48a50aa254bd2f7eb
+  - enabled: 1
+    path: Assets/Scenes/Aftermath Arc/Antique Shop 2.unity
+    guid: b476524a638c3564784912f187f38f00
+  - enabled: 1
+    path: Assets/Scenes/ExtraStory.unity
+    guid: e5ba4dc1143aed4428660cd0119dd436
+  m_configObjects: {}

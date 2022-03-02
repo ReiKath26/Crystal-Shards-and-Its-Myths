@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - StartPos
+  - Ladder
+  - GameMaster
+  - PyroGrand
+  - ShootatThis
+  - PriestBullet
+  - ReturnToThis
+  - Activator
+  - FinalBoss
+  - EnterBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Duri
+  - Enemy
+  - Envi
+  - Ground2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 600373155
+    locked: 0
+  - name: cloud1
+    uniqueID: 3061038857
+    locked: 0
+  - name: cloud2
+    uniqueID: 1742184931
+    locked: 0
+  - name: envi
+    uniqueID: 1183697863
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 2537657287
+    locked: 0
+  - name: Player
+    uniqueID: 2971549861
+    locked: 0
+  - name: Arrows
+    uniqueID: 2181942327
+    locked: 0
