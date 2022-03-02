@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 0e751b652e375df47897885de0e601fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1730271424280433071
+    second: Slime miniboss-01_0
+  - first:
+      213: 4480021865607372251
+    second: Slime miniboss-01_1
+  - first:
+      213: 3982299697478297247
+    second: Slime miniboss-01_2
+  - first:
+      213: -1465319783716078686
+    second: Slime miniboss-01_3
+  - first:
+      213: 7521389222261978944
+    second: Slime miniboss-01_4
+  - first:
+      213: 4272584611712329400
+    second: Slime miniboss-01_5
+  - first:
+      213: -2318642029954143982
+    second: Slime miniboss-01_6
+  - first:
+      213: -3744363305359612672
+    second: Slime miniboss-01_7
+  - first:
+      213: -8703840134526505823
+    second: Slime miniboss-01_8
+  - first:
+      213: -6035606941512854395
+    second: Slime miniboss-01_9
+  - first:
+      213: -6003356852130118742
+    second: Slime miniboss-01_10
+  - first:
+      213: 8182443355111066635
+    second: Slime miniboss-01_11
+  - first:
+      213: -8033967607593753362
+    second: Slime miniboss-01_12
+  - first:
+      213: -825347510782857415
+    second: Slime miniboss-01_13
+  - first:
+      213: 534921418484553539
+    second: Slime miniboss-01_14
+  - first:
+      213: -6702685344728515419
+    second: Slime miniboss-01_15
+  - first:
+      213: 1875175846598011742
+    second: Slime miniboss-01_16
+  - first:
+      213: -5234741550226317805
+    second: Slime miniboss-01_17
+  - first:
+      213: -5887590425013145019
+    second: Slime miniboss-01_18
+  - first:
+      213: -8575047303734578279
+    second: Slime miniboss-01_19
+  - first:
+      213: 4722647372516085978
+    second: Slime miniboss-01_20
+  - first:
+      213: -7486048409415908929
+    second: Slime miniboss-01_21
+  - first:
+      213: 2691410544784006240
+    second: Slime miniboss-01_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime miniboss-01_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2286
+        width: 300
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e61c69e47dcf7e0800000000000000
+      internalID: -1730271424280433071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2284
+        width: 300
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd928d862c3c2e30800000000000000
+      internalID: 4480021865607372251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2281
+        width: 301
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e659c978f34730800000000000000
+      internalID: 3982299697478297247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1856
+        width: 386
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab30499b632aabe0800000000000000
+      internalID: -1465319783716078686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1854
+        width: 385
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047706ac5a7516860800000000000000
+      internalID: 7521389222261978944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2132
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6e9e531154b4b30800000000000000
+      internalID: 4272584611712329400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2135
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219ea43cb5782dfd0800000000000000
+      internalID: -2318642029954143982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1855
+        width: 384
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005680a8969590cc0800000000000000
+      internalID: -3744363305359612672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_8
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2134
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac62c7338fb53780800000000000000
+      internalID: -8703840134526505823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_9
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2138
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5849e37f6773d3ca0800000000000000
+      internalID: -6035606941512854395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1570
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa380e800cacfaca0800000000000000
+      internalID: -6003356852130118742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1575
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c862801e0ed8170800000000000000
+      internalID: 8182443355111066635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1570
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42164d60d918090800000000000000
+      internalID: -8033967607593753362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_13
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1565
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe883dfc6cb84f0800000000000000
+      internalID: -825347510782857415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1165
+        width: 300
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347158b223c6c6700800000000000000
+      internalID: 534921418484553539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1174
+        width: 301
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac7d3af0374bf2a0800000000000000
+      internalID: -6702685344728515419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 734
+        width: 386
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bedd35f76f50a10800000000000000
+      internalID: 1875175846598011742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_17
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 754
+        width: 384
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e58cf7b467a57b0800000000000000
+      internalID: -5234741550226317805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 302
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542b916c3b31b4ea0800000000000000
+      internalID: -5887590425013145019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 341
+        width: 301
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993bab8e8ef4ff880800000000000000
+      internalID: -8575047303734578279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_20
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 344
+        width: 301
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d04e73c63a8140800000000000000
+      internalID: 4722647372516085978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_21
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 347
+        width: 288
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1036962a63c1890800000000000000
+      internalID: -7486048409415908929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime miniboss-01_22
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 332
+        width: 272
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c579a71afc95520800000000000000
+      internalID: 2691410544784006240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
