@@ -12,5 +12,4 @@ Game screenshots:
 
 ![Screenshot (2517)](https://user-images.githubusercontent.com/56445175/156365835-d7bc83c8-44a1-46db-9101-e29c5b14e55f.png)
 ![Screenshot (2518)](https://user-images.githubusercontent.com/56445175/156365841-97fbe99d-8a6a-468d-9574-a807e9666571.png)
-![Screenshot (2253)](https://user-images.githubusercontent.com/56445175/156365879-3c7536b2-939e-4fa0-8bf7-9e4405a23b5e.png)
 ![Screenshot (2251)](https://user-images.githubusercontent.com/56445175/156365892-c0d935f6-2d99-4134-8562-a9ce6c1eaf67.png)
