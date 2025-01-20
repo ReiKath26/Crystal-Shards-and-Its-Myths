@@ -7,12 +7,19 @@ The game sets place in the world of White Tower, where an evil deity named Shado
 Made by:
 
 Andika 
+
 Kenisya Fudika
+
 Fanissa Rahma
+
 Rizky Ashari
+
 Kathleen Febiola Susanto
+
 Enricko Gregorio
+
 Elric Pien 
+
 Tony Harris Hung
 
 Game screenshots:
