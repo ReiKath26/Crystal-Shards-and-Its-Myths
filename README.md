@@ -1,8 +1,19 @@
 # Crystal-Shards-and-Its-Myths
 
-A platformer game made in unity
+A platformer game made in unity. Final project for Game Design course @BINUS
 
 The game sets place in the world of White Tower, where an evil deity named Shadow Lord seek to wreck havoc at the separated factions of White Tower. Therefore, our three heroes have to go on an epic adventure to save the White Tower while retaining peace between the three faction of White Tower.
+
+Made by:
+
+Andika 
+Kenisya Fudika
+Fanissa Rahma
+Rizky Ashari
+Kathleen Febiola Susanto
+Enricko Gregorio
+Elric Pien 
+Tony Harris Hung
 
 Game screenshots:
 
